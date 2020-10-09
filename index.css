@@ -1,1 +1,47 @@
-/* Put your style information here! */
+html {
+  background-color: #A1CDD6;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+#body-container {
+  background-color: #ffffff;
+  width: 850px;
+  padding-left:30px;
+  padding-right:30px;
+  padding-top:10px;
+  padding-bottom:10px;
+  display:block;
+  margin:auto;
+
+}
+
+.diagram {
+  background-color: #ffffff;
+  margin: auto;
+  border: 3px solid #A1CDD6;
+  width: 650px;
+  padding: 10px;
+}
+
+.diagram2 {
+  background-color: #ffffff;
+  margin: auto;
+  width: 800px;
+}
+
+.pic {
+  display:block;
+  margin:auto;
+}
+
+.caption {
+  font-size: 13px;
+  text-align: center;
+}
